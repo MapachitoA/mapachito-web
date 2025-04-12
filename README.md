@@ -130,6 +130,9 @@
     <a href="mapachito2.jpg" target="_blank">
         <img src="mapachito2.jpg" alt="Mapachito Aventura 2" class="comic-img">
     </a>
+     <a href="mapachito2.jpg" target="_blank">
+        <img src="mapachito2.jpg" alt="Mapachito Aventura 3" class="comic-img">
+    </a>
 </div>    </section>
 
     <section id="sobremi">
